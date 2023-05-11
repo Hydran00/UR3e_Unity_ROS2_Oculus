@@ -1,0 +1,29 @@
+{
+    "name": "Robot_control",
+    "rootNamespace": "",
+    "references": [
+        "GUID:625bfc588fb96c74696858f2c467e978",
+        "GUID:af45c84eece3ead8c849c5f4d436c0ed",
+        "GUID:b1ef917f7a8a86a4eb639ec2352edbf8",
+        "GUID:5db6cbfd5d0e86a46862a70f4b4067f2",
+        "GUID:1da8e23352f14494396eac5033ba9894",
+        "GUID:ba58c43074cf72549aa2ac5937dae44b",
+        "GUID:0e66fbb4ae0104cf59f4638cd2a165c1",
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30",
+        "GUID:d2761a0af0f567748a72629d4bb18a26",
+        "GUID:4af21795022437d4bb139a86514b9ff9",
+        "GUID:92a75b491832138f29c002952df15380"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
